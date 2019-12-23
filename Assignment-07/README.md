@@ -1,0 +1,3 @@
+Divs are just kind of like sub divisions of elements in the page. They are identified by ids and classes. The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
+Alt text specifies an alternate text for an image, if the image cannot be displayed. The alt attribute provides alternative information for an image if a user for some reason cannot view it, so at least they wouldn't be looking at a blank page.
+I set up the document as usual. established the divs, and then I added the media at the end. I struggled with the MART video though...I'm not sure what exactly I was doing wrong there.
