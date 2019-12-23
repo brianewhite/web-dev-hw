@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Monsieur+La+Doulaise|Sahitya&display=swap');
 /* Page-Wide */
   body {
@@ -41,3 +42,48 @@ a:active{
   background-color: #999999
   color: rbg(11,44,126)
 }
+=======
+@import url('https://fonts.googleapis.com/css?family=Monsieur+La+Doulaise|Sahitya&display=swap');
+/* Page-Wide */
+  body {
+    background-color: rgb(10, 82, 110);
+    color: white;
+    padding:5px;
+    font-family: 'Sahitya', serif;
+  }
+
+  /* Paragraph Content */
+  .text{
+    background-color: #FFFFFF;
+    color: rgb(10, 82, 110);
+    padding: 5px;
+
+    line-height: 2em;
+
+  }
+  p:first-of-type:first-letter{
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-size: 3em;
+    font-weight: 700;
+    color: rgb(126, 44, 11)
+  }
+
+/*"Read More!" Link */
+a {
+  background-color: rgb(126, 44, 11);
+  color: #FFFFFF;
+  padding:5px;
+
+}
+a:hover{
+  font-style: italic;
+
+}
+a:visited{
+  color: #999999
+}
+a:active{
+  background-color: #999999
+  color: rbg(11,44,126)
+}
+>>>>>>> 77d96160ef104c7301504c79844c1960ffc6c239
