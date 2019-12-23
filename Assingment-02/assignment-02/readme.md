@@ -1,17 +1,15 @@
+
 # Assignment-02
 ## Briane White
 
-I am a paragraph!
+I wanted to take this class because I wanted to learn more about web design. As a journalism student, we're expected to have a portfolio to provide to possible future employers. A website is the easiest way to present all this media efficiently.
 
-A list of things in markdown
 
-- item 1
-- item 2
-- item 3
 
-1. item 1
-2. item 2
-3. item 3
+- How to code consistently
+- How to build a website
+- Basic design elements
+
 
 [Google Search](https://www.google.com/?client=safari)
 
