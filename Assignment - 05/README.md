@@ -1,3 +1,3 @@
-I think you can have as many as you would like...however it would probably make the page much longer than the average attention span has withstand, so it would be wise to split it up with links and additional pages. The headings split of the different sections (the bodies) into different categories.
+You can only have one head, and one body (you can have several headings though) The headings split of the different sections into different categories.
 Structural markup is the markup that structures the page layout (a div, span or any other tag with css) that places it somewhere specific on the page or that provides elements in a certain structure. Semantic markup is markup where the name of the tag indicates something about the content (ul indicates that the elements are in an unordered list).
 This was very simple actually. I set up a skeleton structure of the basic elements that the page would need and then filled them with the actual recipe.
