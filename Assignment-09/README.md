@@ -1,0 +1,3 @@
+1. Each element can have only one ID and each page can have only one element with that ID, whereas you can use the same class on multiple elements and you can use multiple classes on the same element. The universal selector selects all elements on a page (hence the name universal) but the element selector  this must match one or more HTML elements of the same name it's also know as a “type selector”
+2. I'm not going to lie.. there wasn't much decision on my part. I was just following you. I suppose I was thinking that was roughly what I was supposed to do.
+3. I set this one up as normal, following the directions of the video. This one was oddly satisfying, watching the colors change with my simple commands.
