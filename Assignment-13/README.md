@@ -1,0 +1,3 @@
+1. Well I basically learned everything, considering I have used none of this before in my life. I also learned that a tremendous amount of work goes into it...whether it be the simplest of things.
+2. Again, I was rather new to all of this. I will say, that I struggled to figure out how to add different styles to numerous pages on my websites. Had I not waited until the last minute to do things, I probably could've figured that out, instead of leaving my final website the way that it is...
+3. Oh gosh...just an absolute mess. Thank goodness for the help from older assignments. I would just like to point out the little profile picture that I inserted in the "Home Page" it was actually quite the feat figuring that out one.
