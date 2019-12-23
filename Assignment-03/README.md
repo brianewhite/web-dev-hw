@@ -1,0 +1,2 @@
+A browser is an application that is used to access and view websites. It translates HTML, which is code used to design/"mark up" web pages. I primarily used Google Chrome and Safari occasionally.
+A markup language is made to explain a document in a way that is distinguishable from the text. Blue tags indicate what the parts of the document are, rather than details of how they might be shown on some display. A common one is HTML.
